@@ -1,7 +1,8 @@
 # Hi there, I'm Khue 👋
 
-## 📫 How to reach me:
+## 📫 How to reach me
 
+- Website (work in progress): https://khuedoan.com/
 - Email: mail@khuedoan.com
 - LinkedIn: https://www.linkedin.com/in/khuedoan/
 
