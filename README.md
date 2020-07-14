@@ -2,7 +2,7 @@
 
 ## 📫 How to reach me
 
-[![Website](https://img.shields.io/static/v1?style=for-the-badge&logo=HTML5&label=Website&message=khuedoan.com&color=green)](https://khuedoan.com)
+[![Website](https://img.shields.io/static/v1?style=for-the-badge&logo=HTML5&label=Website&message=khuedoan.com&color=green)](https://khuedoan.com) (work in progress)
 
 [![Email](https://img.shields.io/static/v1?style=for-the-badge&logo=Gmail&label=Email&message=mail@khuedoan.com&color=red)](mailto:mail@khuedoan.com)
 
