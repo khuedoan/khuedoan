@@ -13,4 +13,4 @@ My setup:
 - Provisioning:
   - Linux: [linux-setup](https://github.com/khuedoan/linux-setup)
   - Windows: [windows-setup](https://github.com/khuedoan/windows-setup)
-  - macOS: [macos-setup](https://github.com/khuedoan/macos-setup)
+  - macOS: [macos-setup](https://github.com/khuedoan/macos-setup) (work in progress)
